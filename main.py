@@ -7,7 +7,7 @@ from pyrogram import Client, filters
 # ========== BOT CONFIG ==========
 API_ID =34792718    # <-- apna api_id
 API_HASH = "d12293a48e849ee8feee66aa68e482fb"  # <-- apna api_hash
-BOT_TOKEN = "8545901037:AAH73uEib1iVk9lUk20Z2txtYARbC4LPz2c"
+BOT_TOKEN = "8545901037:AAFg6QQhp_9_tz2NNXp_WXFJnAeHls3jDmk"
 
 # ========== GMAIL CONFIG ==========
 GMAIL_EMAIL = "kripasindhug059@gmail.com"
